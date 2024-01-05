@@ -20,7 +20,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 18 years old, currently living in Brazil. I have experience with Angular, TypeScript, HTML, CSS, PHP, SQL, Kaban. I attended high school and technical school at an Etec, which helped me develop important skills such as creativity, communication, teamwork and problem solving.
+  - 💬 I am 18 years old, currently living in Brazil. I have experience with Angular, TypeScript, HTML, CSS, PHP, MYSQL e Kaban. I attended high school and technical school at an Etec, which helped me develop important skills such as creativity, communication, teamwork and problem solving.
 
 </details>
 
