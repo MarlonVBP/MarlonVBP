@@ -23,10 +23,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: MarlonVBP
-          # Gera o SVG padrão e a versão customizada com a sua paleta
+          # Usa a paleta dark green do GitHub para o fundo e a sua cor laranja para a cobra
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-custom.svg?color_snake=%23FF9800&color_dots=%2300000F,%23002A54,%238AA8FF,%23FBFFFF,%23FF9800
+            dist/github-snake-custom.svg?palette=github-dark&color_snake=%23FF9800
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
