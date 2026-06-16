@@ -1,84 +1,49 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!!!</h1></summary>
-</div
-    
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF9800&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Marlon+Passos!;Desenvolvedor+Full-Stack;Estudante+na+Fatec+Tatuí" alt="Typing SVG" />
+</div>
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Marlon! A systems development technician.
 
-  - I'm currently studying systems analysis and development at Fatec.
-    
-  - I'm looking for my first job opportunity. My goal is to one day become a Senior Developer.
+## 👨‍💻 About Me
 
+🚀 Trabalho na **Grupo Petrópolis**  
+🎓 Formado em Análise e Desenvolvimento de Sistemas pela **Fatec Tatuí**  
+💻 Construindo soluções de ponta a ponta com Angular, Flutter, PHP e bancos relacionais  
+⚡ Fun fact: Longe das telas, meu foco é nos treinos de hipertrofia e em colocar a mão na massa na mecânica do meu carro 🚗🏋️‍♂️
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="45" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="45" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="45" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="45" alt="Arduino"/>
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+## Stats ✨
 
-  - 💬 I am 18 years old, currently living in Brazil. I have experience with Angular, TypeScript, HTML, CSS, PHP, MYSQL e Kaban. I attended high school and technical school at an Etec, which helped me develop important skills such as creativity, communication, teamwork and problem solving.
+<div align="center">
 
-</details>
-<img alt="penguin" src="./gengar.gif" width="64px" />
+![](https://github-readme-stats.vercel.app/api?username=MarlonVBP&bg_color=00000F&title_color=FF9800&text_color=8AA8FF&icon_color=FF9800&hide_border=true)
+![](https://streak-stats.demolab.com?user=MarlonVBP&background=00000F&ring=FF9800&fire=FF9800&currStreakNum=8AA8FF&sideNums=8AA8FF&currStreakLabel=FF9800&sideLabels=8AA8FF&dates=8AA8FF&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonVBP&layout=compact&bg_color=00000F&title_color=FF9800&text_color=8AA8FF&icon_color=FF9800&hide_border=true)
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlon_vicctor/?target=_blank)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-passos-410b34229/?target=_blank)
+</div>
 
-<!-- GithubStats -->
-  ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonVBP&show_icons=true&theme=gotham)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonVBP&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://www.linkedin.com/in/marlon-passos-410b34229/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=002A54" />
+  </a>
+  <a href="https://www.instagram.com/marlon_vicctor/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=002A54" />
+  </a>
+</div>
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Languages</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  </div>
+<br>
 
-  <!-- Learning: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Learning</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  </div>
-
-  <div align="center">
-  <h3>🐍 Minhas Contribuições</h3>
+<div align="center">
   <img src="https://raw.githubusercontent.com/MarlonVBP/MarlonVBP/output/github-snake-custom.svg" alt="Animação de contribuições do GitHub" />
 </div>
