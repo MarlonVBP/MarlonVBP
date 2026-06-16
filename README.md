@@ -2,7 +2,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World!!!</h1></summary>
-</div>
+</div
     
 ---
 
@@ -77,4 +77,8 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   </div>
-  
+
+  <div align="center">
+  <h3>🐍 Minhas Contribuições</h3>
+  <img src="https://raw.githubusercontent.com/MarlonVBP/MarlonVBP/output/github-snake-custom.svg" alt="Animação de contribuições do GitHub" />
+</div>
